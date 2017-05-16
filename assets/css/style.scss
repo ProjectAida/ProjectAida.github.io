@@ -3,5 +3,5 @@
 
 @import "{{ site.theme }}";
 
-.notStyled {all:unset};
-li {list-style-type: disc};
+ul.notStyled {all:unset};
+li.notStyled {list-style-type: disc};
