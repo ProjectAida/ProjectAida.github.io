@@ -3,5 +3,7 @@
 
 @import "{{ site.theme }}";
 
-ul.notStyled {all:initial};
-li.notStyled {all:initial};
+header ul {};
+
+header li {};
+
