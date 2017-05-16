@@ -30,7 +30,13 @@
         {% endif %}
       </header>
       
-       <h2>Project Team</h2>
+      <section>
+
+      {{ content }}
+
+      </section>
+      <footer>
+        <h2>Project Team</h2>
         <h3>University of Nebraska-Lincoln</h3>
         <ul>
           <li>Elizabeth Lorang, principal investigator</li>
@@ -51,13 +57,6 @@
           <li>Joseph Lunde, undergraduate research assistant</li>
           <li>Grace Thomas, undergraduate research assistant</li>
         </ul>
-      
-      <section>
-
-      {{ content }}
-
-      </section>
-      <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
