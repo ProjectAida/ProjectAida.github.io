@@ -6,6 +6,7 @@ Libraries, archives, museums, and other groups are creating millions and million
 Code developed for our project is available via our GitHub [organization page](https://github.com/ProjectAida).
 
 ## Documents & Publications
+* [National Leadership Grant application](https://www.imls.gov/grants/awarded/lg-71-16-0152-16), submitted to the Institute of Museum and Library Services, May 2016
 * [White paper](http://digitalcommons.unl.edu/cdrhgrants/4/), submitted to National Endowment for the Humanities, October 2016
 * [Final report](http://digitalcommons.unl.edu/cdrhgrants/5/), submitted to National Endowment for the Humanities, October 2016
 * [Interim report](http://digitalcommons.unl.edu/cdrhgrants/3/), submitted to National Endowment for the Humanities, January 2016
