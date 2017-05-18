@@ -14,3 +14,5 @@ header ul a { line-height: 100%; font-size: 100%; color: #39c; text-align: left;
 header li.liz {border: none; width: 100%; float: left; background-color: #fff; }
 
 header ul.liz li + li + li { border: none; width: 100%; }
+
+footer { width: 270px; float: left; position: relative; bottom: 50px; -webkit-font-smoothing: subpixel-antialiased; }
