@@ -4,3 +4,9 @@
 @import "{{ site.theme }}";
 
 /* header.header {position: relative; width: 270px; float: left; margin-top: 28%}; */
+
+header ul {padding: 0; width: 270px; }
+
+header li {float: left; height: 40px; }
+
+header ul li + li + li { border-right: none; width: 40px; }
