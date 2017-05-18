@@ -5,8 +5,8 @@
 
 /* header.header {position: relative; width: 270px; float: left; margin-top: 28%}; */
 
-header ul {padding: 0; width: 270px; }
+header ul.liz {list-style: none; height: 40px; padding: 0; width: 270px; }
 
-header li {float: left; border-left:none; }
+header li.liz {border: none; width: 100%; float: left; }
 
-header ul li + li + li { border-right: none;}
+header ul.liz li + li + li { border: none; width: 100%; }
