@@ -2,6 +2,9 @@
 
 Libraries, archives, museums, and other groups are creating millions and millions of digital images as we digitize the cultural record. For the most part, though, these digital images are under-utilized, and we leverage little of their information potential. At the same time, locating relevant materials in digital collections is often already a difficult endeavor and will become increasingly so as more content is digitized. The Aida team is exploring what more we can do with the millions of images that represent the digitized cultural record&#8212;particularly digital images of textual materials&#8212;and we are interested in the types of discovery that serious attention to digital images might yield.
 
+## Code
+Code developed for our project is available via our GitHub [organization page](https://github.com/ProjectAida).
+
 ## Documents & Publications
 * [White paper](http://digitalcommons.unl.edu/cdrhgrants/4/), submitted to National Endowment for the Humanities, October 2016
 * [Final report](http://digitalcommons.unl.edu/cdrhgrants/5/), submitted to National Endowment for the Humanities, October 2016
