@@ -7,7 +7,7 @@ Libraries, archives, museums, and other groups are creating millions and million
 * [Final report](http://digitalcommons.unl.edu/cdrhgrants/5/), submitted to National Endowment for the Humanities, October 2016
 * [Interim report](http://digitalcommons.unl.edu/cdrhgrants/3/), submitted to National Endowment for the Humanities, January 2016
 * [Interim report](http://digitalcommons.unl.edu/cdrhgrants/2/), submitted to National Endowment for the Humanities, June 2015
-* [Interim report])(http://digitalcommons.unl.edu/cdrhgrants/1/), submitted to National Endowment for the Humanities, January 2015
+* [Interim report](http://digitalcommons.unl.edu/cdrhgrants/1/), submitted to National Endowment for the Humanities, January 2015
 * [Application for start-up funding](http://www.neh.gov/files/grants/university_of_nebraska_image_analysis_for_archival_discovery.pdf), submitted to National Endowment for the Humanities, Office of Digital Humanities, September 2013
 
 ## News & Updates
