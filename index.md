@@ -2,8 +2,10 @@
 
 Libraries, archives, museums, and other groups are creating millions and millions of digital images as we digitize the cultural record. For the most part, though, these digital images are under-utilized, and we leverage little of their information potential. At the same time, locating relevant materials in digital collections is often already a difficult endeavor and will become increasingly so as more content is digitized. The Aida team is exploring what more we can do with the millions of images that represent the digitized cultural record&#8212;particularly digital images of textual materials&#8212;and we are interested in the types of discovery that serious attention to digital images might yield.
 
-## Code
-Code developed for our project is available via our GitHub [organization page](https://github.com/ProjectAida).
+## Code & Data
+Code developed for our project is available via our GitHub [organization page](https://github.com/ProjectAida).  
+
+Data will be made available through appropriate data repositories, designed for long-term storage and preservation. Check back soon!
 
 ## Documents & Publications
 * [National Leadership Grant application](https://www.imls.gov/grants/awarded/lg-71-16-0152-16), submitted to the Institute of Museum and Library Services, May 2016
