@@ -7,6 +7,6 @@
 
 header ul {padding: 0; width: 270px; }
 
-header li {float: left; height: 40px; }
+header li {float: left; height: 40px; border-left:none; }
 
 header ul li + li + li { border-right: none; width: 40px; }
