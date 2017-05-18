@@ -6,9 +6,10 @@ Libraries, archives, museums, and other groups are creating millions and million
 * [White paper](http://digitalcommons.unl.edu/cdrhgrants/4/), submitted to National Endowment for the Humanities, October 2016
 * [Final report](http://digitalcommons.unl.edu/cdrhgrants/5/), submitted to National Endowment for the Humanities, October 2016
 * [Interim report](http://digitalcommons.unl.edu/cdrhgrants/3/), submitted to National Endowment for the Humanities, January 2016
-* ["Developing an Image-Based Classifier for Detecting Poetic Content in Historic Newspaper Collections](http://www.dlib.org/dlib/july15/lorang/07lorang.html), _D-Lib Magainze_, July 2015
+* ["Developing an Image-Based Classifier for Detecting Poetic Content in Historic Newspaper Collections"](http://www.dlib.org/dlib/july15/lorang/07lorang.html), _D-Lib Magainze_, July 2015
 * [Interim report](http://digitalcommons.unl.edu/cdrhgrants/2/), submitted to National Endowment for the Humanities, June 2015
 * [Interim report](http://digitalcommons.unl.edu/cdrhgrants/1/), submitted to National Endowment for the Humanities, January 2015
+* [Extended abstract](http://dharchive.org/paper/DH2014/Paper-851.xml), Digital Humanities 2014
 * [Application for start-up funding](http://www.neh.gov/files/grants/university_of_nebraska_image_analysis_for_archival_discovery.pdf), submitted to National Endowment for the Humanities, Office of Digital Humanities, September 2013
 
 ## News & Updates
