@@ -5,7 +5,7 @@ Libraries, archives, museums, and other groups are creating millions and million
 ## Code & Data
 Code developed for our project is available via our GitHub [organization page](https://github.com/ProjectAida).  
 
-Data generated for our project is made available through appropriate data repositories, designed for long-term storage and preservation. Our first data set is available via the Open Science Framework and the University of Nebraska-Lincoln Libraries Data Repository: [https://osf.io/jd74f/](https://osf.io/jd74f/).
+Data generated for our project is made available through appropriate data repositories, designed for long-term storage and preservation. Our first data set is available via the Open Science Framework and the University of Nebraska-Lincoln Libraries Data Repository: [https://osf.io/jd74f/](https://osf.io/jd74f/)
 
 ## Documents & Publications
 * [National Leadership Grant application](https://www.imls.gov/grants/awarded/lg-71-16-0152-16), submitted to the Institute of Museum and Library Services, May 2016
