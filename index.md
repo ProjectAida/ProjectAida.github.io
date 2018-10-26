@@ -20,6 +20,7 @@ Data generated for our project is made available through appropriate data reposi
 * [Application for start-up funding](http://www.neh.gov/files/grants/university_of_nebraska_image_analysis_for_archival_discovery.pdf), submitted to National Endowment for the Humanities, Office of Digital Humanities, September 2013
 
 ## News & Updates
+* UVA and UNL team members hold working meeting in Washington, DC (September 2018)
 * Team members present on Aida work on research with historic newspapers at annual meeting of the National Digital Newspaper Program in Washington, DC (September 2018)
 * Aida co-directors Lorang and Soh present opening keynote for 2018 HathiTrust Research Center UnCamp (January 2018)
 * Aida team members contribute to Digging into Data Challenge grant, ["Oceanic Exchanges: Tracing Global Information Networks in Historical Newspaper Repositorires, 1840-1914,"](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper) and receive subaward to focus on image segementation of historic newspapers (May 2017).
