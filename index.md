@@ -8,6 +8,7 @@ Code developed for our project is available via our GitHub [organization page](h
 Data generated for our project is made available through appropriate data repositories, designed for long-term storage, preservation, and access. Our first data set is available via the Open Science Framework and the University of Nebraska-Lincoln Libraries Data Repository: [https://osf.io/jd74f/](https://osf.io/jd74f/)
 
 ## Documents & Publications
+* [Interim report](http://digitalcommons.unl.edu/cdrhgrants/6), submitted to Institute of Museum and Library Services, February 2018
 * [National Leadership Grant application](https://www.imls.gov/grants/awarded/lg-71-16-0152-16), submitted to the Institute of Museum and Library Services, May 2016
 * [White paper](http://digitalcommons.unl.edu/cdrhgrants/4/), submitted to National Endowment for the Humanities, October 2016
 * [Final report](http://digitalcommons.unl.edu/cdrhgrants/5/), submitted to National Endowment for the Humanities, October 2016
@@ -19,6 +20,8 @@ Data generated for our project is made available through appropriate data reposi
 * [Application for start-up funding](http://www.neh.gov/files/grants/university_of_nebraska_image_analysis_for_archival_discovery.pdf), submitted to National Endowment for the Humanities, Office of Digital Humanities, September 2013
 
 ## News & Updates
+* Team members present on Aida work on research with historic newspapers at annual meeting of the National Digital Newspaper Program in Washington, DC (September 2018)
+* Aida co-directors Lorang and Soh present opening keynote for 2018 HathiTrust Research Center UnCamp (January 2018)
 * Aida team members contribute to Digging into Data Challenge grant, ["Oceanic Exchanges: Tracing Global Information Networks in Historical Newspaper Repositorires, 1840-1914,"](https://diggingintodata.org/awards/2016/project/oceanic-exchanges-tracing-global-information-networks-historical-newspaper) and receive subaward to focus on image segementation of historic newspapers (May 2017).
 * Aida team receives $462,000 in IMLS funding for their project "Extending Intelligent Computational Image Analysis for Archival Discovery" and welcome new team members from the University of Virginia! Read the _Nebraska Today_ [story](http://news.unl.edu/newsrooms/today/article/researchers-push-software-to-work-more-like-human-eye) (September 2016).
 * UNL Annual Research Report for 2015 recognizes Aida! Read the [article](http://research.unl.edu/annualreport/2015/finding-poetry-amid-historic-news-pages/) or view the [video](https://youtu.be/D893Mu1S7RI?list=PL2C3zJJ2hPlAyFRnHpueG_GcdMX-RevN9).
