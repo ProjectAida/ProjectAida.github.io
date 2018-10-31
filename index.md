@@ -8,6 +8,8 @@ Code developed for our project is available via our GitHub [organization page](h
 Data generated for our project is made available through appropriate data repositories, designed for long-term storage, preservation, and access. Our first data set is available via the Open Science Framework and the University of Nebraska-Lincoln Libraries Data Repository: [https://osf.io/jd74f/](https://osf.io/jd74f/)
 
 ## Documents & Publications
+* [Lorang, Elizabeth, Leen-Kiat Soh, Yi Liu, Chulwoo Pack, and Delaram Rahimi, "Using Chronicling America’s Images to Explore Digitized Historic Newspapers & Imagine Alternative Futures," National Digital Newspaper Program Annual Meeting, Washington, D.C., September 26, 2018.](http://digitalcommons.unl.edu/library_talks/143/)
+* [Lorang, Elizabeth, "Patterns, Collaboration, Practice: Algorithms as Editing for Historic Periodicals," American Antiquarian Society Spring Symposium 2018, Editorship as Collaboration: Patterns of Practice in Multi-Ethnic Periodicals, Worcester, MA, April 28, 2018.](http://digitalcommons.unl.edu/library_talks/142/)
 * [Interim report](http://digitalcommons.unl.edu/cdrhgrants/6), submitted to Institute of Museum and Library Services, February 2018
 * [National Leadership Grant application](https://www.imls.gov/grants/awarded/lg-71-16-0152-16), submitted to the Institute of Museum and Library Services, May 2016
 * [White paper](http://digitalcommons.unl.edu/cdrhgrants/4/), submitted to National Endowment for the Humanities, October 2016
