@@ -9,7 +9,7 @@ Data generated for our project is made available through appropriate data reposi
 
 ## Documents & Publications
 * ["Using Chronicling America’s Images to Explore Digitized Historic Newspapers & Imagine Alternative Futures," ](http://digitalcommons.unl.edu/library_talks/143/) National Digital Newspaper Program Annual Meeting, Washington, D.C., September 26, 2018
-* ["Patterns, Collaboration, Practice: Algorithms as Editing for Historic Periodicals,"] (http://digitalcommons.unl.edu/library_talks/142/) American Antiquarian Society Spring Symposium 2018, Editorship as Collaboration: Patterns of Practice in Multi-Ethnic Periodicals, Worcester, MA, April 28, 2018
+* ["Patterns, Collaboration, Practice: Algorithms as Editing for Historic Periodicals,"](http://digitalcommons.unl.edu/library_talks/142/) American Antiquarian Society Spring Symposium 2018, Editorship as Collaboration: Patterns of Practice in Multi-Ethnic Periodicals, Worcester, MA, April 28, 2018
 * [Interim report](http://digitalcommons.unl.edu/cdrhgrants/6), submitted to Institute of Museum and Library Services, February 2018
 * [National Leadership Grant application](https://www.imls.gov/grants/awarded/lg-71-16-0152-16), submitted to the Institute of Museum and Library Services, May 2016
 * [White paper](http://digitalcommons.unl.edu/cdrhgrants/4/), submitted to National Endowment for the Humanities, October 2016
