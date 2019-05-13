@@ -5,7 +5,7 @@ Libraries, archives, museums, and other groups are creating millions and million
 ## Code & Data
 Code developed for our project is available via our GitHub [organization page](https://github.com/ProjectAida).  
 
-Data generated for our project is made available through appropriate data repositories, designed for long-term storage, preservation, and access. Our first data set is available via the Open Science Framework and the University of Nebraska-Lincoln Libraries Data Repository: [https://osf.io/jd74f/](https://osf.io/jd74f/)
+Data generated for our project are made available through appropriate data repositories designed for long-term storage, preservation, and access. See our project page on the Open Science Framework: [https://osf.io/xn7tv/](https://osf.io/xn7tv/)
 
 ## Documents & Publications
 * ["Using Chronicling America’s Images to Explore Digitized Historic Newspapers & Imagine Alternative Futures," ](http://digitalcommons.unl.edu/library_talks/143/) National Digital Newspaper Program Annual Meeting, Washington, D.C., September 26, 2018
