@@ -8,7 +8,7 @@ Code developed for our project is available via our GitHub [organization page](h
 Data generated for our project are made available through appropriate data repositories designed for long-term storage, preservation, and access. See our project page on the Open Science Framework: [https://osf.io/xn7tv/](https://osf.io/xn7tv/)
 
 ## Documents & Publications
-* ["Application of the Image Analysis for Archival Discovery Team’s First- Generation Methods and Software to the Burney Collection of British Newspapers"](https://digitalcommons.unl.edu/cdrhgrants/7/), May 2019
+* ["Application of the Image Analysis for Archival Discovery Team’s First- Generation Methods and Software to the Burney Collection of British Newspapers,"](https://digitalcommons.unl.edu/cdrhgrants/7/) May 2019
 * ["Using Chronicling America’s Images to Explore Digitized Historic Newspapers & Imagine Alternative Futures," ](http://digitalcommons.unl.edu/library_talks/143/) National Digital Newspaper Program Annual Meeting, Washington, D.C., September 26, 2018
 * ["Patterns, Collaboration, Practice: Algorithms as Editing for Historic Periodicals,"](http://digitalcommons.unl.edu/library_talks/142/) American Antiquarian Society Spring Symposium 2018, Editorship as Collaboration: Patterns of Practice in Multi-Ethnic Periodicals, Worcester, MA, April 28, 2018
 * [Interim report](http://digitalcommons.unl.edu/cdrhgrants/6), submitted to Institute of Museum and Library Services, February 2018
