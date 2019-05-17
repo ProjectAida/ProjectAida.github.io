@@ -9,6 +9,7 @@ Data generated for our project are made available through appropriate data repos
 
 ## Documents & Publications
 * ["Application of the Image Analysis for Archival Discovery Team’s First- Generation Methods and Software to the Burney Collection of British Newspapers,"](https://digitalcommons.unl.edu/cdrhgrants/7/) May 2019
+  * Direct links to [report](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&context=cdrhgrants), [appendices](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?filename=0&article=1007&context=cdrhgrants&type=additional), [data](https://osf.io/u5twn/), and [code](https://github.com/ProjectAida/aida)
 * ["Using Chronicling America’s Images to Explore Digitized Historic Newspapers & Imagine Alternative Futures," ](http://digitalcommons.unl.edu/library_talks/143/) National Digital Newspaper Program Annual Meeting, Washington, D.C., September 26, 2018
 * ["Patterns, Collaboration, Practice: Algorithms as Editing for Historic Periodicals,"](http://digitalcommons.unl.edu/library_talks/142/) American Antiquarian Society Spring Symposium 2018, Editorship as Collaboration: Patterns of Practice in Multi-Ethnic Periodicals, Worcester, MA, April 28, 2018
 * [Interim report](http://digitalcommons.unl.edu/cdrhgrants/6), submitted to Institute of Museum and Library Services, February 2018
@@ -24,6 +25,7 @@ Data generated for our project are made available through appropriate data repos
 * [Application for start-up funding](http://www.neh.gov/files/grants/university_of_nebraska_image_analysis_for_archival_discovery.pdf), submitted to National Endowment for the Humanities, Office of Digital Humanities, September 2013
 
 ## News & Updates
+* Aida team releases report, "Application of the Image Analysis for Archival Discovery Team’s First- Generation Methods and Software to the Burney Collection of British Newspapers" (May 2019)
 * UVA and UNL team members hold working meeting in Washington, DC (September 2018)
 * Team members present on Aida work on research with historic newspapers at annual meeting of the National Digital Newspaper Program in Washington, DC (September 2018)
 * Aida co-directors Lorang and Soh present opening keynote for 2018 HathiTrust Research Center UnCamp (January 2018)
