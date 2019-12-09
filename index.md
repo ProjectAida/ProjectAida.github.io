@@ -26,6 +26,10 @@ Data generated for our project are made available through appropriate data repos
 * [Application for start-up funding](http://www.neh.gov/files/grants/university_of_nebraska_image_analysis_for_archival_discovery.pdf), submitted to National Endowment for the Humanities, Office of Digital Humanities, September 2013
 
 ## News & Updates
+* "Digital Libraries, Intelligent Data Analytics, and Augmented Description: A Demonstration Project" featured in [Nebraska Today](https://news.unl.edu/newsrooms/today/article/nebraska-researchers-partner-with-library-of-congress/) (November 2019)
+* Liz Lorang joins advisory board for Library of Congress's Computing Cultural Heritage project (October 2019)
+* Leen-Kiat Soh presents on behalf of the Aida team at Machine Learning + Libraries summit (September 2019)
+* Aida research team awarded research services contract from the Library of Congress for "Digital Libraries, Intelligent Data Analytics, and Augmented Description: A Demonstration Project" (July-November 2019)
 * Aida team releases report, "Application of the Image Analysis for Archival Discovery Team’s First- Generation Methods and Software to the Burney Collection of British Newspapers" (May 2019)
 * UVA and UNL team members hold working meeting in Washington, DC (September 2018)
 * Team members present on Aida work on research with historic newspapers at annual meeting of the National Digital Newspaper Program in Washington, DC (September 2018)
