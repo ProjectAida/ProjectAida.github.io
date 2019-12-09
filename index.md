@@ -8,6 +8,7 @@ Code developed for our project is available via our GitHub [organization page](h
 Data generated for our project are made available through appropriate data repositories designed for long-term storage, preservation, and access. See our project page on the Open Science Framework: [https://osf.io/xn7tv/](https://osf.io/xn7tv/)
 
 ## Documents & Publications
+* __Coming in January 2020__: Report on "Digital Libraries, Intelligent Data Analytics, and Augmented Description: A Demonstration Project," including narrative assessment, code, and data
 * ["Application of the Image Analysis for Archival Discovery Team’s First- Generation Methods and Software to the Burney Collection of British Newspapers,"](https://digitalcommons.unl.edu/cdrhgrants/7/) May 2019
   * Direct links to [report](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&context=cdrhgrants), [appendices](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?filename=0&article=1007&context=cdrhgrants&type=additional), [data](https://osf.io/u5twn/), and [code](https://github.com/ProjectAida/aida)
 * [Interim report](https://digitalcommons.unl.edu/cdrhgrants/8/), submitted to Institute of Museum and Library Services, March 2019
