@@ -1,6 +1,8 @@
 # Image Analysis for Archival Discovery (Aida)
 
-Libraries, archives, museums, and other groups are creating millions and millions of digital images as we digitize the cultural record. For the most part, though, these digital images are under-utilized, and we leverage little of their information potential. At the same time, locating relevant materials in digital collections is often already a difficult endeavor and will become increasingly so as more content is digitized. The Aida team is exploring what more we can do with the millions of images that represent the digitized cultural record&#8212;particularly digital images of textual materials&#8212;and we are interested in the types of discovery that serious attention to digital images might yield.
+The Aida research team explores applications of image analysis and machine learning in digital libraries of historic materials. We’re especially interested in what we might learn from the millions of digital images that librarians, archivists, and others are creating as they digitize the cultural record. We’re intrigued by the questions that machine learning approaches might help to surface in these collections and about our professional practices&#8212;and also by the questions our collections and professional practices might help to surface about machine learning.
+
+Our current and recent efforts include “Digital Libraries, Intelligent Data Analytics, and Augmented Description: A Demonstration Project” (Library of Congress), “Extending Image Analysis for Archival Discovery” (IMLS, LG‐71‐16‐0152‐16), and “Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914” (subaward on IMLS, LG-00-17-0104-17).
 
 ## Code & Data
 Code developed for our project is available via our GitHub [organization page](https://github.com/ProjectAida).  
