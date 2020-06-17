@@ -5,7 +5,7 @@ The Aida research team explores applications of image analysis and machine learn
 Our current and recent efforts include “Digital Libraries, Intelligent Data Analytics, and Augmented Description: A Demonstration Project” (Library of Congress), “Extending Image Analysis for Archival Discovery” (IMLS, LG‐71‐16‐0152‐16), and “Oceanic Exchanges: Tracing Global Information Networks In Historical Newspaper Repositories, 1840-1914” (subaward on IMLS, LG-00-17-0104-17).
 
 ## Code & Data
-Code developed for our project is available via our GitHub [organization page](https://github.com/ProjectAida).  
+Code developed for our project is available via our GitHub [organization page](https://github.com/ProjectAida). See also the [Exploring-ML-with-Project-Aida](https://github.com/LibraryOfCongress/Exploring-ML-with-Project-Aida) repository distributed by the Library of Congress.
 
 Data generated for our project are made available through appropriate data repositories designed for long-term storage, preservation, and access. See our project page on the Open Science Framework: [https://osf.io/xn7tv/](https://osf.io/xn7tv/)
 
