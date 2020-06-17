@@ -35,8 +35,12 @@ Data generated for our project are made available through appropriate data repos
 * [Application for start-up funding](https://www.neh.gov/files/grants/university_of_nebraska_image_analysis_for_archival_discovery.pdf), submitted to National Endowment for the Humanities, Office of Digital Humanities, September 2013
 
 ## News & Updates
+* All project materials related to "Digital Libraties, Intelligent Data Analytics, and Augmented Description" are publicly released (June 2020)
+* The Aida team traveled to Washington, DC to present the final report to the Library of Congress for "Digital Libraties, Intelligent Data Analytics, and Augmented Description" (January 2020)
+* With Harish Maringanti (University of Utah) and John Wang (Notre Dame), Liz Lorang participated in the ["Machine Learning in Research Libraries: A Snapshot of Projects, Opportunities, and Challenges,"](https://youtu.be/W2Xs1u-7954) panel presentation at CNI (December 2019)
 * "Digital Libraries, Intelligent Data Analytics, and Augmented Description: A Demonstration Project" featured in [Nebraska Today](https://news.unl.edu/newsrooms/today/article/nebraska-researchers-partner-with-library-of-congress/) (November 2019)
 * Liz Lorang joins advisory board for Library of Congress's Computing Cultural Heritage project (October 2019)
+* Aida team requests/receives no-cost extension for “Extending Image Analysis for Archival Discovery” (IMLS, LG‐71‐16‐0152‐16) (September 2019)
 * Leen-Kiat Soh presents on behalf of the Aida team at Machine Learning + Libraries summit (September 2019)
 * Aida research team awarded research services contract from the Library of Congress for "Digital Libraries, Intelligent Data Analytics, and Augmented Description: A Demonstration Project" (July-November 2019)
 * Aida team releases report, "Application of the Image Analysis for Archival Discovery Team’s First- Generation Methods and Software to the Burney Collection of British Newspapers" (May 2019)
