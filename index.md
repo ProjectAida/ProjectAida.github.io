@@ -10,7 +10,11 @@ Code developed for our project is available via our GitHub [organization page](h
 Data generated for our project are made available through appropriate data repositories designed for long-term storage, preservation, and access. See our project page on the Open Science Framework: [https://osf.io/xn7tv/](https://osf.io/xn7tv/)
 
 ## Documents & Publications
-* __Coming in January 2020__: Report on "Digital Libraries, Intelligent Data Analytics, and Augmented Description: A Demonstration Project," including narrative assessment, code, and data
+* ["Digital Libraries, Intelligent Data Analytics, and Augmented Description: A Demonstration Project," ](https://digitalcommons.unl.edu/libraryscience/396/) final report delivered to the Library of Congress, 10 January 2020, rev. 15 June 2020
+  * [Final Presentation to the Library of Congress on Digital Libraries, Intelligent Data Analytics, and Augmented Description](https://digitalcommons.unl.edu/library_talks/162/) (presentation slides)
+  * [Virtual Wrap-Up Presentation: Digital Libraries, Intelligent Data Analytics, and Augmented Description](https://digitalcommons.unl.edu/cseconfwork/329/) (presentation slides)
+  * [Document Images and Machine Learning: A Collaboratory between the Library of Congress and the Image Analysis for Archival Discovery (Aida) Lab at the University of Nebraska, Lincoln, NE](https://digitalcommons.unl.edu/cseconfwork/330/) (presentation slides)
+  * [Work-in-Progress Reports Submitted to the Library of Congress as Part of Digital Libraries, Intelligent Data Analytics, and Augmented Description](https://digitalcommons.unl.edu/csetechreports/168/) (narrative reports)
 * ["Application of the Image Analysis for Archival Discovery Team’s First- Generation Methods and Software to the Burney Collection of British Newspapers,"](https://digitalcommons.unl.edu/cdrhgrants/7/) May 2019
   * Direct links to [report](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&context=cdrhgrants), [appendices](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?filename=0&article=1007&context=cdrhgrants&type=additional), [data](https://osf.io/u5twn/), and [code](https://github.com/ProjectAida/aida)
 * [Interim report](https://digitalcommons.unl.edu/cdrhgrants/8/), submitted to Institute of Museum and Library Services, March 2019
