@@ -9,7 +9,7 @@ Code developed for our project is available via our GitHub [organization page](h
 
 Data generated for our project are made available through appropriate data repositories designed for long-term storage, preservation, and access. See our project page on the Open Science Framework: [https://osf.io/xn7tv/](https://osf.io/xn7tv/)
 
-## Documents & Publications
+## Documents, Publications, Presentations
 * ["Digital Libraries, Intelligent Data Analytics, and Augmented Description: A Demonstration Project," ](https://digitalcommons.unl.edu/libraryscience/396/) final report delivered to the Library of Congress, 10 January 2020, rev. 15 June 2020
   * [Final Presentation to the Library of Congress on Digital Libraries, Intelligent Data Analytics, and Augmented Description](https://digitalcommons.unl.edu/library_talks/162/) (presentation slides)
   * [Virtual Wrap-Up Presentation: Digital Libraries, Intelligent Data Analytics, and Augmented Description](https://digitalcommons.unl.edu/cseconfwork/329/) (presentation slides)
